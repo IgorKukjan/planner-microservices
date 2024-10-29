@@ -4,72 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c68b06c1-ba01-42bc-ad0e-416521d5570e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-config/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-config/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-config/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-config/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-config/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-config/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-config/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-config/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-config/src/main/java/ru/javabegin/micro/planner/plannerconfig/PlannerConfigApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-config/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-config/src/test/java/ru/javabegin/micro/planner/plannerconfig/PlannerConfigApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-entity/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-entity/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-entity/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-entity/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-entity/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-entity/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-entity/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-entity/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-entity/src/main/java/ru/javabegin/micro/planner/PlannerEntityApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-entity/src/main/java/ru/javabegin/micro/planner/entity/Activity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-entity/src/main/java/ru/javabegin/micro/planner/entity/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-entity/src/main/java/ru/javabegin/micro/planner/entity/Priority.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-entity/src/main/java/ru/javabegin/micro/planner/entity/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-entity/src/main/java/ru/javabegin/micro/planner/entity/Stat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-entity/src/main/java/ru/javabegin/micro/planner/entity/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-entity/src/main/java/ru/javabegin/micro/planner/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-entity/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-entity/src/test/java/ru/javabegin/micro/planner/entity/PlannerEntityApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-gateway/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-gateway/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-gateway/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-gateway/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-gateway/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-gateway/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-gateway/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-gateway/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-gateway/src/main/java/ru/javabegin/micro/planner/plannergateway/PlannerGatewayApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-gateway/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-gateway/src/test/java/ru/javabegin/micro/planner/plannergateway/PlannerGatewayApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-server/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-server/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-server/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-server/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-server/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-server/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-server/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-server/src/main/java/ru/javabegin/micro/planner/plannerserver/PlannerServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-server/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-server/src/test/java/ru/javabegin/micro/planner/plannerserver/PlannerServerApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    <list default="true" id="c68b06c1-ba01-42bc-ad0e-416521d5570e" name="Changes" comment="first">
+      <change beforePath="$PROJECT_DIR$/planner-entity/src/main/java/ru/javabegin/micro/planner/entity/Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/planner-entity/src/main/java/ru/javabegin/micro/planner/entity/Activity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -210,8 +146,16 @@
       <option name="presentableId" value="Default" />
       <updated>1730122772293</updated>
       <workItem from="1730122773323" duration="2416000" />
-      <workItem from="1730179977500" duration="4711000" />
+      <workItem from="1730179977500" duration="5034000" />
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1730191451320</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730191451320</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,5 +171,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
 </project>
