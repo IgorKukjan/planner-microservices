@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c68b06c1-ba01-42bc-ad0e-416521d5570e" name="Changes" comment="49 Priority">
-      <change beforePath="$PROJECT_DIR$/planner-todo/src/main/java/ru/javabegin/micro/planner/todo/controller/StatController.java" beforeDir="false" afterPath="$PROJECT_DIR$/planner-todo/src/main/java/ru/javabegin/micro/planner/todo/controller/StatController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/planner-todo/src/main/java/ru/javabegin/micro/planner/todo/repo/StatRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/planner-todo/src/main/java/ru/javabegin/micro/planner/todo/repo/StatRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/planner-todo/src/main/java/ru/javabegin/micro/planner/todo/service/StatService.java" beforeDir="false" afterPath="$PROJECT_DIR$/planner-todo/src/main/java/ru/javabegin/micro/planner/todo/service/StatService.java" afterDir="false" />
+    <list default="true" id="c68b06c1-ba01-42bc-ad0e-416521d5570e" name="Changes" comment="50 Stat">
+      <change afterPath="$PROJECT_DIR$/planner-todo/src/main/java/ru/javabegin/micro/planner/todo/controller/TaskController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-todo/src/main/java/ru/javabegin/micro/planner/todo/repo/TaskRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-todo/src/main/java/ru/javabegin/micro/planner/todo/search/TaskSearchValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-todo/src/main/java/ru/javabegin/micro/planner/todo/service/TaskService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planner-todo/src/main/java/ru/javabegin/micro/planner/todo/controller/PriorityController.java" beforeDir="false" afterPath="$PROJECT_DIR$/planner-todo/src/main/java/ru/javabegin/micro/planner/todo/controller/PriorityController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +147,7 @@
       <option name="presentableId" value="Default" />
       <updated>1730122772293</updated>
       <workItem from="1730122773323" duration="2416000" />
-      <workItem from="1730179977500" duration="16723000" />
+      <workItem from="1730179977500" duration="17589000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1730191451320</created>
@@ -188,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1730210125555</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="50 Stat">
+      <created>1730210692641</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730210692641</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,6 +222,7 @@
     <MESSAGE value="todo Category" />
     <MESSAGE value="48 config logging" />
     <MESSAGE value="49 Priority" />
-    <option name="LAST_COMMIT_MESSAGE" value="49 Priority" />
+    <MESSAGE value="50 Stat" />
+    <option name="LAST_COMMIT_MESSAGE" value="50 Stat" />
   </component>
 </project>
