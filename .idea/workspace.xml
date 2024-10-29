@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c68b06c1-ba01-42bc-ad0e-416521d5570e" name="Changes" comment="first">
-      <change beforePath="$PROJECT_DIR$/planner-entity/src/main/java/ru/javabegin/micro/planner/entity/Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/planner-entity/src/main/java/ru/javabegin/micro/planner/entity/Activity.java" afterDir="false" />
-    </list>
+    <list default="true" id="c68b06c1-ba01-42bc-ad0e-416521d5570e" name="Changes" comment="entity user_id" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,9 +26,15 @@
     <projectState path="$PROJECT_DIR$/planner-server">
       <ProjectState />
     </projectState>
+    <projectState path="$PROJECT_DIR$/planner-todo">
+      <ProjectState />
+    </projectState>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/planner-entity" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
   </component>
   <component name="KubernetesApiPersistence">
     <option name="context" value="docker-desktop" />
@@ -146,7 +150,7 @@
       <option name="presentableId" value="Default" />
       <updated>1730122772293</updated>
       <workItem from="1730122773323" duration="2416000" />
-      <workItem from="1730179977500" duration="5034000" />
+      <workItem from="1730179977500" duration="5334000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1730191451320</created>
@@ -155,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1730191451320</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="entity user_id">
+      <created>1730191691438</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730191691438</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +185,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first" />
-    <option name="LAST_COMMIT_MESSAGE" value="first" />
+    <MESSAGE value="entity user_id" />
+    <option name="LAST_COMMIT_MESSAGE" value="entity user_id" />
   </component>
 </project>
