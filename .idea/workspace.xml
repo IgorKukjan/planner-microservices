@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c68b06c1-ba01-42bc-ad0e-416521d5570e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-config/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-config/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-config/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-config/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-config/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-config/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-config/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-config/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-config/src/main/java/ru/javabegin/micro/planner/plannerconfig/PlannerConfigApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-config/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-config/src/test/java/ru/javabegin/micro/planner/plannerconfig/PlannerConfigApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-entity/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-entity/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-entity/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-entity/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-entity/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-entity/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-entity/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-entity/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-entity/src/main/java/ru/javabegin/micro/planner/PlannerEntityApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-entity/src/main/java/ru/javabegin/micro/planner/entity/Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-entity/src/main/java/ru/javabegin/micro/planner/entity/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-entity/src/main/java/ru/javabegin/micro/planner/entity/Priority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-entity/src/main/java/ru/javabegin/micro/planner/entity/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-entity/src/main/java/ru/javabegin/micro/planner/entity/Stat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-entity/src/main/java/ru/javabegin/micro/planner/entity/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-entity/src/main/java/ru/javabegin/micro/planner/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-entity/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-entity/src/test/java/ru/javabegin/micro/planner/entity/PlannerEntityApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-gateway/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-gateway/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-gateway/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-gateway/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-gateway/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-gateway/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-gateway/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-gateway/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-gateway/src/main/java/ru/javabegin/micro/planner/plannergateway/PlannerGatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-gateway/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-gateway/src/test/java/ru/javabegin/micro/planner/plannergateway/PlannerGatewayApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-server/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-server/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-server/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-server/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-server/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-server/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-server/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-server/src/main/java/ru/javabegin/micro/planner/plannerserver/PlannerServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-server/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-server/src/test/java/ru/javabegin/micro/planner/plannerserver/PlannerServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/planner-config">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/planner-entity">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/planner-gateway">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/planner-server">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/planner-entity" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="docker-desktop" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2o4JAR8gkwO0BewuZXeuZGUo4Lx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_directory_selection": "D:/IntelliJProjects/spring/microservice Spring + JavaKotlin/planner-microservices/planner-entity/src/main/java/ru/javabegin/micro/planner",
+    "last_opened_file_path": "D:/IntelliJProjects/spring/microservice Spring + JavaKotlin/planner-microservices/planner-entity/src/main/java/ru/javabegin/micro/planner/entity",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "spring.configuration.checksum": "af9c9ca54412d344bb3b96746476347f",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IntelliJProjects\spring\microservice Spring + JavaKotlin\planner-microservices\planner-entity\src\main\java\ru\javabegin\micro\planner\entity" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.PlannerEntityApplication (1)">
+    <configuration name="PlannerConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="planner-config.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.javabegin.micro.planner.plannerconfig.PlannerConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlannerEntityApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="planner-entity.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.javabegin.micro.planner.PlannerEntityApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.javabegin.micro.planner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlannerEntityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="planner-entity.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.javabegin.micro.planner.entity.PlannerEntityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlannerGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="planner-gateway.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.javabegin.micro.planner.plannergateway.PlannerGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlannerServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="planner-server.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.javabegin.micro.planner.plannerserver.PlannerServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.PlannerEntityApplication" />
+      <item itemvalue="Spring Boot.PlannerGatewayApplication" />
+      <item itemvalue="Spring Boot.PlannerConfigApplication" />
+      <item itemvalue="Spring Boot.PlannerServerApplication" />
+      <item itemvalue="Spring Boot.PlannerEntityApplication (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.PlannerEntityApplication (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c68b06c1-ba01-42bc-ad0e-416521d5570e" name="Changes" comment="" />
+      <created>1730122772293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730122772293</updated>
+      <workItem from="1730122773323" duration="2416000" />
+      <workItem from="1730179977500" duration="4711000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
