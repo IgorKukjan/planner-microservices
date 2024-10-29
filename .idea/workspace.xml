@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c68b06c1-ba01-42bc-ad0e-416521d5570e" name="Changes" comment="48 config logging">
-      <change afterPath="$PROJECT_DIR$/planner-todo/src/main/java/ru/javabegin/micro/planner/todo/controller/PriorityController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-todo/src/main/java/ru/javabegin/micro/planner/todo/repo/PriorityRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-todo/src/main/java/ru/javabegin/micro/planner/todo/search/PrioritySearchValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-todo/src/main/java/ru/javabegin/micro/planner/todo/service/PriorityService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c68b06c1-ba01-42bc-ad0e-416521d5570e" name="Changes" comment="49 Priority">
+      <change beforePath="$PROJECT_DIR$/planner-todo/src/main/java/ru/javabegin/micro/planner/todo/controller/StatController.java" beforeDir="false" afterPath="$PROJECT_DIR$/planner-todo/src/main/java/ru/javabegin/micro/planner/todo/controller/StatController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planner-todo/src/main/java/ru/javabegin/micro/planner/todo/repo/StatRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/planner-todo/src/main/java/ru/javabegin/micro/planner/todo/repo/StatRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planner-todo/src/main/java/ru/javabegin/micro/planner/todo/service/StatService.java" beforeDir="false" afterPath="$PROJECT_DIR$/planner-todo/src/main/java/ru/javabegin/micro/planner/todo/service/StatService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +91,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.PlannerTodoApplication">
+  <component name="RunManager" selected="Spring Boot.PlannerGatewayApplication">
     <configuration name="PlannerConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="planner-config.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="ru.javabegin.micro.planner.plannerconfig.PlannerConfigApplication" />
@@ -146,7 +144,7 @@
       <option name="presentableId" value="Default" />
       <updated>1730122772293</updated>
       <workItem from="1730122773323" duration="2416000" />
-      <workItem from="1730179977500" duration="16193000" />
+      <workItem from="1730179977500" duration="16723000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1730191451320</created>
@@ -183,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1730208749918</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="49 Priority">
+      <created>1730210125555</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730210125555</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,6 +211,7 @@
     <MESSAGE value="todo" />
     <MESSAGE value="todo Category" />
     <MESSAGE value="48 config logging" />
-    <option name="LAST_COMMIT_MESSAGE" value="48 config logging" />
+    <MESSAGE value="49 Priority" />
+    <option name="LAST_COMMIT_MESSAGE" value="49 Priority" />
   </component>
 </project>
