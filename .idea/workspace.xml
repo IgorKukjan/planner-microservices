@@ -4,13 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c68b06c1-ba01-42bc-ad0e-416521d5570e" name="Changes" comment="50 Stat">
-      <change afterPath="$PROJECT_DIR$/planner-todo/src/main/java/ru/javabegin/micro/planner/todo/controller/TaskController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-todo/src/main/java/ru/javabegin/micro/planner/todo/repo/TaskRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-todo/src/main/java/ru/javabegin/micro/planner/todo/search/TaskSearchValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner-todo/src/main/java/ru/javabegin/micro/planner/todo/service/TaskService.java" afterDir="false" />
+    <list default="true" id="c68b06c1-ba01-42bc-ad0e-416521d5570e" name="Changes" comment="51 Task">
+      <change afterPath="$PROJECT_DIR$/planner-utils/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-utils/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-utils/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-utils/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-utils/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-utils/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-utils/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-utils/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-utils/src/main/java/ru/javabegin/micro/planner/utils/PlannerUtilsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-utils/src/main/java/ru/javabegin/micro/planner/utils/aop/LoggingAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-utils/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner-utils/src/test/java/ru/javabegin/micro/planner/utils/PlannerUtilsApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/planner-todo/src/main/java/ru/javabegin/micro/planner/todo/controller/PriorityController.java" beforeDir="false" afterPath="$PROJECT_DIR$/planner-todo/src/main/java/ru/javabegin/micro/planner/todo/controller/PriorityController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planner-todo/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/planner-todo/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +33,9 @@
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/planner-config">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/planner-entit">
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/planner-entity">
@@ -36,9 +50,27 @@
     <projectState path="$PROJECT_DIR$/planner-todo">
       <ProjectState />
     </projectState>
+    <projectState path="$PROJECT_DIR$/planner-utils">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/planner-entity">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/planner-todo" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/planner-utils" />
   </component>
   <component name="JpbToolWindowState">
     <option name="isToolWindowVisible" value="false" />
@@ -68,7 +100,7 @@
     "git-widget-placeholder": "master",
     "jdk.selected.JAVA_MODULE": "17",
     "last_directory_selection": "D:/IntelliJProjects/spring/microservice Spring + JavaKotlin/planner-microservices/planner-entity/src/main/java/ru/javabegin/micro/planner",
-    "last_opened_file_path": "D:/IntelliJProjects/spring/microservice Spring + JavaKotlin/planner-microservices/planner-todo/src/main/java/ru/javabegin/micro/planner/todo",
+    "last_opened_file_path": "D:/IntelliJProjects/spring/microservice Spring + JavaKotlin/planner-microservices/planner-utils/src/main/java/ru/javabegin/micro/planner/utils",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -77,12 +109,14 @@
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
-    "spring.configuration.checksum": "af9c9ca54412d344bb3b96746476347f",
+    "spring.configuration.checksum": "8ed69fec35d001b31fd373489e4ecc67",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IntelliJProjects\spring\microservice Spring + JavaKotlin\planner-microservices\planner-utils\src\main\java\ru\javabegin\micro\planner\utils" />
+      <recent name="D:\IntelliJProjects\spring\microservice Spring + JavaKotlin\planner-microservices\planner-entit\src\main\java\ru\javabegin\micro\planner\entit" />
       <recent name="D:\IntelliJProjects\spring\microservice Spring + JavaKotlin\planner-microservices\planner-todo\src\main\java\ru\javabegin\micro\planner\todo" />
       <recent name="D:\IntelliJProjects\spring\microservice Spring + JavaKotlin\planner-microservices\planner-entity\src\main\java\ru\javabegin\micro\planner\entity" />
     </key>
@@ -98,6 +132,20 @@
     <configuration name="PlannerConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="planner-config.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="ru.javabegin.micro.planner.plannerconfig.PlannerConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlannerEntitApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="planner-entit.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.javabegin.micro.planner.PlannerEntitApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlannerEntityApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="planner-entity.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.javabegin.micro.planner.PlannerEntityApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -130,7 +178,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PlannerUtilsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="planner-utils.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.javabegin.micro.planner.utils.PlannerUtilsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Spring Boot.PlannerUtilsApplication" />
+      <item itemvalue="Spring Boot.PlannerEntitApplication" />
+      <item itemvalue="Spring Boot.PlannerEntityApplication (1)" />
       <item itemvalue="Spring Boot.PlannerEntityApplication" />
       <item itemvalue="Spring Boot.PlannerGatewayApplication" />
       <item itemvalue="Spring Boot.PlannerTodoApplication" />
@@ -148,6 +206,7 @@
       <updated>1730122772293</updated>
       <workItem from="1730122773323" duration="2416000" />
       <workItem from="1730179977500" duration="17589000" />
+      <workItem from="1730448037705" duration="714000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1730191451320</created>
