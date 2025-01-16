@@ -1,0 +1,3 @@
+[submodule "planner-users"]
+	path = planner-users
+	url = https://github.com/IgorKukjan/planner-users.git
