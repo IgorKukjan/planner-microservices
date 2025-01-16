@@ -1,3 +1,21 @@
 [submodule "planner-users"]
 	path = planner-users
 	url = https://github.com/IgorKukjan/planner-users.git
+[submodule "planner-todo"]
+	path = planner-todo
+	url = https://github.com/IgorKukjan/planner-todo.git
+[submodule "planner-utils"]
+	path = planner-utils
+	url = https://github.com/IgorKukjan/planner-utils.git
+[submodule "planner-entity"]
+	path = planner-entity
+	url = https://github.com/IgorKukjan/planner-entity.git
+[submodule "planner-server"]
+	path = planner-server
+	url = https://github.com/IgorKukjan/planner-server.git
+[submodule "planner-gateway"]
+	path = planner-gateway
+	url = https://github.com/IgorKukjan/planner-gateway.git
+[submodule "planner-config"]
+	path = planner-config
+	url = https://github.com/IgorKukjan/planner-config.git
