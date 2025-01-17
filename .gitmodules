@@ -2,3 +2,27 @@
 	path = planner-users
 	url = https://github.com/IgorKukjan/planner-users.git
 	branch = kotlin
+[submodule "planner-todo"]
+	path = planner-todo
+	url = https://github.com/IgorKukjan/planner-todo.git
+	branch = kotlin
+[submodule "planner-utils"]
+	path = planner-utils
+	url = https://github.com/IgorKukjan/planner-utils.git
+	branch = kotlin
+[submodule "planner-config"]
+	path = planner-config
+	url = https://github.com/IgorKukjan/planner-config.git
+	branch = kotlin
+[submodule "planner-server"]
+	path = planner-server
+	url = https://github.com/IgorKukjan/planner-server.git
+	branch = kotlin
+[submodule "planner-entity"]
+	path = planner-entity
+	url = https://github.com/IgorKukjan/planner-entity.git
+	branch = kotlin
+[submodule "planner-gateway"]
+	path = planner-gateway
+	url = https://github.com/IgorKukjan/planner-gateway.git
+	branch = kotlin
